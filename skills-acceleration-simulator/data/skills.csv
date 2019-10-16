@@ -1,0 +1,24 @@
+Name	Primary	Secondary
+Ammor	Intelligence	Memory
+Electronic Systems	Intelligence	Memory
+Navigation	Intelligence	Memory
+Planet Management	Intelligence	Memory
+Production	Intelligence	Memory
+Rigging	Intelligence	Memory
+Scanning	Intelligence	Memory
+Science	Intelligence	Memory
+Shields	Intelligence	Memory
+Subsystems	Intelligence	Memory
+Targeting	Intelligence	Memory
+Resource Processing	Memory	Intelligence
+Drones	Memory	Perception
+Corporation Management	Memory	Charisma
+Structure Management	Memory	Charisma
+Social	Charisma	Intelligence
+Engineering	Perception	Willpower
+Gunnery	Perception	Willpower
+Missiles	Perception	Willpower
+Spaceship Command	Perception	Willpower
+Trade	Charisma	Memory
+Fleet Support	Charisma	Willpower
+Neural Enhancement	Charisma	Willpower
